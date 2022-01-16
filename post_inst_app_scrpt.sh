@@ -5,7 +5,6 @@ sudo snap install telegram-desktop vlc spotify youtube-music-desktop-app kdenliv
 sudo snap install slack --classic
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 #deleting unuseful things
 sudo rm google-chrome-stable_current_amd64.deb
